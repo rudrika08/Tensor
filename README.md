@@ -1,4 +1,4 @@
-# Tensor
+# Kiranaflow AI
 
 Multi-modal credit intelligence system for kirana store analysis.
 
